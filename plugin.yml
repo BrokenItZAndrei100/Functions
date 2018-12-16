@@ -1,8 +1,8 @@
 name: Functions
-author: BoxOfDevs Team
+author: BrokenItZAndrei100
 version: 2.0.1
 api: [3.0.0-ALPHA12, 3.0.0]
-main: BoxOfDevs\Functions\Main
+main: BrokenItZAndrei100\Functions\Main
 commands: 
   function:
     description: "Create, manage and remove functions with this command"
